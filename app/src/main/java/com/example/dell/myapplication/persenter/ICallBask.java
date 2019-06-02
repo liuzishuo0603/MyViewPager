@@ -1,4 +1,4 @@
-package com.example.dell.myapplication.mvp.view.persenter;
+package com.example.dell.myapplication.persenter;
 
 import com.example.dell.myapplication.beans.RootBean;
 
